@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Michael/Desktop/Random Folder/University/GEP/GEP_InventorySystem_Unreal/Unreal Project/GEP_Inventory/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Michael/Desktop/Random Folder/University/GEP/GEP_InventorySystem_Unreal/Unreal Project/GEP_Inventory/Content/Assets/Actor_Player.uasset",
+				"C:/Users/Michael/Desktop/Random Folder/University/GEP/GEP_InventorySystem_Unreal/Unreal Project/GEP_Inventory/Content/Assets/Blueprints/Actor_Player.uasset",
+				"C:/Users/Michael/Desktop/Random Folder/University/GEP/GEP_InventorySystem_Unreal/Unreal Project/GEP_Inventory/Content/Assets/Levels/Level_Main.umap"
+			]
+		}
+	]
+}
